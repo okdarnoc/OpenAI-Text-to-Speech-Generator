@@ -119,15 +119,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - OpenAI for providing the Text-to-Speech API
 - The open-source community for inspiration and tools
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/repo-name](https://github.com/yourusername/repo-name)
-
-## Support
-
-- Star the repository if you find it useful
-- Report issues in the [Issues](https://github.com/yourusername/repo-name/issues) section
-- For major changes, please open an issue first to discuss what you would like to change
